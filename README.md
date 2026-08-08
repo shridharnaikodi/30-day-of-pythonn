@@ -1,6 +1,6 @@
-# 🐍 100 Days of Python Challenge
+# 🐍 30 Days of Python Challenge
 
-Welcome to my **100 Days of Python Challenge**!
+Welcome to my **30 Days of Python Challenge**!
 
 This repository documents my journey of improving my Python programming and problem-solving skills through consistent daily practice.
 
@@ -61,9 +61,9 @@ Throughout this challenge, I will practice topics including:
 
 ## 📅 Progress
 
-* Total Days: **100**
+* Total Days: **30**
 * Problems per Day: **3**
-* Total Target Problems: **300**
+* Total Target Problems: **90**
 
 ## 💻 Tools Used
 
