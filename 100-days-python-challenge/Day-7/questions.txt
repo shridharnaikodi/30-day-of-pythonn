@@ -1,0 +1,17 @@
+#Easy
+Q1:Print each name along with its index:
+names = ["Rahul", "Amit", "Sneha", "Priya"]
+
+
+#Medium
+Q2:You have two lists:
+names = ["Rahul", "Amit", "Sneha"]
+marks = [85, 72, 91]
+Create a dictionary:
+
+
+#Interview level
+Q3: Write a function that checks:
+Whether any student scored below 40.
+Whether all students scored at least 40.
+marks = [78, 85, 92, 67, 88]
