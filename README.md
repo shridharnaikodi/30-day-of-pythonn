@@ -6,12 +6,9 @@ This repository documents my journey of improving my Python programming and prob
 
 ## 🎯 Challenge Goal
 
-* Solve **3 Python problems every day**
+* Solve **1Python problems every day**
 
-  * 🟢 Easy
-  * 🟡 Medium
-  * 🔴 Interview Level
-* Practice consistently for **100 days**
+* Practice consistently for **30 days**
 * Strengthen Python fundamentals and problem-solving skills
 * Build a strong GitHub portfolio
 
@@ -59,11 +56,7 @@ Throughout this challenge, I will practice topics including:
 * Strengthen logical thinking
 * Showcase my learning journey on GitHub
 
-## 📅 Progress
 
-* Total Days: **30**
-* Problems per Day: **3**
-* Total Target Problems: **90**
 
 ## 💻 Tools Used
 
